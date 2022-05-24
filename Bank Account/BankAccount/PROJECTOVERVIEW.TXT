@@ -1,0 +1,6 @@
+This project is a simple banking app that adopts basic programming and Java concepts.
+
+Concepts used:
+- mixture of switch and if-else statements used to demonstrate control flow concepts
+- OOP concepts used by having a seperate class where it holds the various functions (Abstraction used)
+for the program.
